@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\11050_workshop.props" />
+</Project>
